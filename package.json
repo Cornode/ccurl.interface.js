@@ -1,0 +1,30 @@
+{
+  "name": "ccurl.interface.js",
+  "version": "0.0.4",
+  "description": "ccurl interface for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornodeledger/ccurl.interface.js.git"
+  },
+  "keywords": [
+    "cornode",
+    "curl",
+    "ccurl",
+    "nodejs",
+    "interface"
+  ],
+  "author": "Dominik Schiener (cornode Foundation)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cornodeledger/ccurl.interface.js/issues"
+  },
+  "homepage": "https://github.com/cornodeledger/ccurl.interface.js#readme",
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "cornode.lib.js": "^0.0.15"
+  }
+}
